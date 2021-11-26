@@ -29,3 +29,8 @@ Stirng edf;
 vim 플러그인을 주벼 지인에게 추천받았고 너드트리가 정말 좋다는 추천을 받았기에 손가락에 익숙해지도로 연습중이다..
 
 <h3>NERDTree 설치</h3>
+npm install nerdTree
+
+<h3>NERDTree 랑 같이 쓰기 좋으 Tool</h3>
+tmux(linux 화면분할), Ctrl P (전체서치)
+  
